@@ -1,1 +1,1 @@
-[](/index.md)  
+[関数](関数/index.md)  
